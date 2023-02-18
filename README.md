@@ -33,7 +33,10 @@ The demos will be shown in [ChatGPT for FinTech](https://github.com/AI4Finance-F
   | Baidu index | Official Website |   -    |  Soon  |
   | Weibo Trends| Official Website |   -    |  Soon  |
 
-### 4. Other resources
+### 4. Corporate Filings
+* [SEC EDGAR](https://pypi.org/project/secedgar/)
+
+### 5. Other resources
 
 * [[Github] Google Trends Data for automated stock trading using Reinforcement learning.](https://github.com/Athe-kunal/Reinforcement-learning-trading-agent-using-Google-trends-data)
 
